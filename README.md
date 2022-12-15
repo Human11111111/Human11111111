@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=human11111111" alt="human11111111" /></a> </p>
 
-- 🔭 I’m currently working on [Get Home Safe](gethomesafe.me)
+- 🔭 I’m currently working on [Get Home Safe](www.gethomesafe.me)
 
 - 🌱 I’m currently learning **Ruby, Rails and JS**
 
 - 📫 How to reach me **mendes.ferdi@gmail.com**
 
-- ⚡ Fun fact **I like to jump out of airplanes**
+- ⚡ Fun fact **I like to jump out of airplanes 🪂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
